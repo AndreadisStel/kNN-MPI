@@ -5,7 +5,7 @@
 CC = gcc
 CFLAGS = -g -O3
 LIBS = -lm
-SRC = knn_serial.c
+SRC = src/knn_serial.c
 TARGET = ./bin/
 EXE = knn_serial
 
