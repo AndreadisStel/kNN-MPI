@@ -38,7 +38,7 @@ Performance benchmarks indicate that as the dataset size increases, the overhead
 
 ## How to Run
 
-1. Prerequisites
+1. Prerequisites\
 Ensure you have an MPI implementation (like OpenMPI) installed on your system.
 
 2. Compilation
