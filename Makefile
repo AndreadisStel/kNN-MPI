@@ -5,7 +5,7 @@
 CC = mpicc
 CFLAGS = -g -O3
 LIBS = -lm
-SRC = knn_mpi.c
+SRC = src/knn_mpi.c
 TARGET = ./bin/
 EXE = knn_mpi
 
