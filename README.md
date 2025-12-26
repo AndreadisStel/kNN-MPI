@@ -33,7 +33,7 @@ While the sequential version remains highly efficient for smaller datasets due t
 | 3D 1k Elements | 0.05s	| 0.44s |	0.45s	| 0.43s |
 | 2D 10k Elements | 10.72s	| 20.98s	| 15.24s|	13.83s |
 
-Performance benchmarks indicate that as the dataset size increases, the overhead of MPI communication is mitigated by the distributed processing power.\
+Performance benchmarks indicate that as the dataset size increases, the overhead of MPI communication is mitigated by the distributed processing power.
 * While communication overhead is more visible in smaller datasets, the performance trajectory indicates that on high-performance computing (**HPC**) infrastructures with massive datasets, this distributed approach will likely achieve high efficiency and effective load balancing.
 
 ## How to Run
