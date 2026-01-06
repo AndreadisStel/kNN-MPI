@@ -1,5 +1,4 @@
 #
-#
 
 # C compiler
 CC = mpicc
